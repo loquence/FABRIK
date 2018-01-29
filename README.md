@@ -1,6 +1,6 @@
 ###### FABRIK
 
-Team Memmbers:
+Team Members:
 
 Fernando Cruz
 Brandon Lee
