@@ -1,3 +1,12 @@
-# FABRIK
-Github website for group FABRIK in cs4800.
-This is a test update.
+###### FABRIK
+
+Team Memmbers:
+
+Fernando Cruz
+Brandon Lee
+Ajit Morar
+Kaushik Jayaram
+Ryan Kennedy 
+Ibrahim Zbib
+
+
