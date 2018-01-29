@@ -1,6 +1,6 @@
 # _FABRIK_
 
-Team Members:
+**Team Members:**
 
 > Fernando Cruz,                                                                       
 > Brandon Lee,                                             
