@@ -1,12 +1,12 @@
-# FABRIK
+# _FABRIK_
 
 Team Members:
 
-Fernando Cruz
-Brandon Lee
-Ajit Morar
-Kaushik Jayaram
-Ryan Kennedy 
-Ibrahim Zbib
+Fernando Cruz,
+Brandon Lee,
+Ajit Morar,
+Kaushik Jayaram,
+Ryan Kennedy, 
+Ibrahim Zbib.
 
 
