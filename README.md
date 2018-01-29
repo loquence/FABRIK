@@ -9,6 +9,6 @@
 > Ibrahim Zbib,                                                                   
 > Kaushik Jayaram.
 
-The 
+_FABRIK_'s goal is to develop an application that combines the functionality of traditional stock and asset tracking applications such as Yahoo finance with newer assets such as cryptocurrency into one user friendly application that is easy to use and easy to learn how to use.
 
 
