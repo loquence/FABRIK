@@ -2,13 +2,13 @@
 
 **Team Members:**
 
-> Fernando Cruz,                                                                       
-> Brandon Lee,                                             
-> Ajit Morar,                              
-> Kaushik Jayaram,                         
+> Fernando Cruz,                                                                                                                   
+> Ajit Morar,
+> Brandon Lee,                          
 > Ryan Kennedy,                        
-> Ibrahim Zbib. 
+> Ibrahim Zbib,
+> Kaushik Jayaram.
 
-With the recent introduction and growth in Cryptocurrencies, few solutions exists that can track multiple asset classes.
+The 
 
 
