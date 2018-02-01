@@ -1,5 +1,3 @@
-# _FABRIK_
-
 **Team Members:**
 
 > Fernando Cruz,                                                                                                                   
