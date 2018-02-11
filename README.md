@@ -14,9 +14,7 @@ _FABRIK_'s goal is to develop an application that combines the functionality of 
 ## [Milestone 2]
     To Do:
         - Storyboard
-        - Mockups
-        - Sketches
-        - Interface Designs
+        - Mockups/Sketches/Interface Designs
         - Brief Narrative walk-through of how the system will work.
         - Design Justifications
         - Three unique UI designs
