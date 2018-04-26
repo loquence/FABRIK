@@ -15,3 +15,4 @@ _FABRIK_'s goal is to develop an application that combines the functionality of 
 
 ## [Milestone 3](https://docs.google.com/document/d/1BduENdPHzeMDJHQKwht9r_tq33Rf7nHm2rZWKmOUxZM/edit?usp=sharing)
    
+## [Milestone 4](https://docs.google.com/document/d/1prbhir4Va3-l6GMT5KjeNVw3NDHPW2_Aq4DksRpcupo/edit?usp=sharing)
